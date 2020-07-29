@@ -6,6 +6,7 @@ Hi, I'm Lorena :wave: I'm a front-end developer at [Netshow.me](https://github.c
 - TypeScript
 - Next.js
 - Jest + RTL
+- Electron
 - Vue
 
 ## 💬 Ask me about
