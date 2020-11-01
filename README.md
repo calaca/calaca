@@ -13,7 +13,7 @@ Hi, I'm Lorena :wave: I'm a front-end developer at [Netshow.me](https://netshow.
 - React
 - Gatsby
 - Styled Components
-- HTML, CSS, JS (the holy trinity of front-end)
+- HTML, CSS, JS
 
 <!--
 **calaca/calaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
