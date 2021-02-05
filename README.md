@@ -1,13 +1,12 @@
 # Lorena Calaça — @calaca
 
-Hi, I'm Lorena :wave: I'm a front-end developer at [Netshow.me](https://netshow.me/) working on building great streaming and OTT solutions. Previously worked as a front-end developer at an agency bringing pixel-perfect designs to life. I've also collaborated in the past as a front-end mentor at a big education startup for about 2 years.
+Hi, I'm Lorena :wave: I'm a front-end developer at [**olist**](https://olist.com/) working on empowering commerce around the world. Previously worked as a front-end developer at a streaming startup and at an agency bringing pixel-perfect designs to life. I've also collaborated in the past as a front-end mentor at a big education startup for about 2 years.
 
 ## 🌱 What I'm currently studying
 - TypeScript
 - Next.js
 - Jest + RTL
-- Electron
-- Vue
+- Web Components
 
 ## 💬 Ask me about
 - React
