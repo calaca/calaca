@@ -5,13 +5,12 @@ Hi, I'm Lorena :wave: I'm a front-end developer at [**olist**](https://olist.com
 ## 🌱 What I'm currently studying
 - TypeScript
 - Next.js
-- Jest + RTL
-- Web Components
 
 ## 💬 Ask me about
 - React
 - Gatsby
 - Styled Components
+- Jest + RTL
 - HTML, CSS, JS
 
 <!--
