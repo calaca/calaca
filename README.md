@@ -3,13 +3,14 @@
 Hi, I'm Lorena :wave: I'm a front-end developer at [**olist**](https://olist.com/) working on empowering commerce around the world. Previously worked as a front-end developer at a streaming startup and at an agency bringing pixel-perfect designs to life. I've also collaborated in the past as a front-end mentor at a big education startup for about 2 years.
 
 ## 🌱 What I'm currently studying
-- Nest.js
+- React Native
 - Go lang
 
 ## 💬 Ask me about
 - React
 - TypeScript
 - Gatsby, Next.js
+- Nest.js
 - Styled Components
 - Jest + RTL
 - HTML, CSS, JS
